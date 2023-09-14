@@ -51,27 +51,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>io.netty</groupId>
-      <artifactId>netty</artifactId>
-      <version>3.6.8.Final</version>
-    </dependency>
-
-    <dependency>
-       <groupId>org.jruby.jcodings</groupId>
-       <artifactId>jcodings</artifactId>
-       <version>1.0.56</version>
-    </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.13.1</version>
-      <scope>test</scope>
-    </dependency>
-     <dependency>
-      <groupId>org.apache.httpcomponents.client5</groupId>
-      <artifactId>httpclient5</artifactId>
-      <version>3.4.0</version>
-      <scope>test</scope>
+      <groupId>org.elasticsearch</groupId>
+      <artifactId>elasticsearch</artifactId>
+      <version>7.3.1</version>
     </dependency>
   </dependencies>
 
